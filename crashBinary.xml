@@ -1,0 +1,7 @@
+<root>
+  <target>C:\crashBinary.exe</target>
+  <gflag>0</gflag>
+  <offset>0</offset>
+  <filetype>txt</filetype>
+  <interval>3</interval>
+</root>
